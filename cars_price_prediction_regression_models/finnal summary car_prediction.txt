@@ -1,0 +1,1 @@
+hence finally proved that the polynomial regression(96.66%) and multiple linearn(96.67%) regression model best fit for thise data set 
